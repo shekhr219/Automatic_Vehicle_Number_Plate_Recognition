@@ -1,2 +1,1 @@
-**Automatic Number Plate Recognition using YOLOv8
-**
+Automatic Number Plate Recognition using YOLOv8
